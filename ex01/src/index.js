@@ -9,13 +9,13 @@ function main(numOne, numTwo) {
 
 
 
-        //Only change code below this line 
+        //only change code below this line 
         var numOne;
         var numTwo;
         quotient = numOne / numTwo;
 
 
-        //Only change code below this line 
+        //only change code above this line 
     }
     return quotient;
 }
